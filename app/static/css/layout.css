@@ -1,0 +1,16 @@
+/* * {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        outline: 0;
+        font-size: 100%;
+        vertical-align: baseline;
+} */
+
+body {
+  background-color: #333333
+}
+
+.content {
+  color: rgb(255, 192, 0)
+}
